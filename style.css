@@ -221,6 +221,7 @@ span{
     display: flex;
     justify-content: space-evenly;
     background-color: #e2e7e6;
+    overflow: hidden;
 }
 
 img{
@@ -301,6 +302,7 @@ td{
     height: 300px;
     width: 97%;
     margin-left: 18px;
+    overflow: hidden;
 }
 
 .home-decor-section{
